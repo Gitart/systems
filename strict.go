@@ -14,6 +14,7 @@ func (r *Rectangle) Area_by_reference() int {
     return r.length * r.width
 }
 
+// Cahnal
 func main() {
     r1 := Rectangle{4, 3}
     fmt.Println("Rectangle is: ", r1)
