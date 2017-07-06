@@ -27,13 +27,10 @@ If you want to eanble systemd support, you must install the `systemd` flavor::
 
   pip install daiquiri[systemd]
 
-Usage
+Пример
 =====
 
-The basic usage of daiquiri is to call the `daiquiri.setup` function that will
-setup logging with the options passed as keyword arguments. If no argument are
-passed, the default will log to `stderr`. If `stderr` is a terminal, the output
-will use colors.
+Новость
 
 .. literalinclude:: ../../examples/basic.py
 
