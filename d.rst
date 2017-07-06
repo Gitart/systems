@@ -15,14 +15,12 @@
 * Free software: Apache license
 * Source: https://github.com/jd/daiquiri
 
-Installation
+Инсталяция
 ============
 
   pip install daiquiri
 
-If you want to enable support of JSON output, you must also install the `json`
-flavor::
-
+Если использование JSON
   pip install daiquiri[json]
 
 If you want to eanble systemd support, you must install the `systemd` flavor::
