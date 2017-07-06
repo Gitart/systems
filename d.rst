@@ -34,10 +34,7 @@ If you want to eanble systemd support, you must install the `systemd` flavor::
 
 .. literalinclude:: ../../examples/basic.py
 
-You can specify different outputs with different formatters. The
-`daiquiri.output` module provides a collection of `Output` classes that you can
-use to your liking to configut the logging output. Any number of output can bex
-configured.
+Новость пример
 
 .. literalinclude:: ../../examples/output.py
 
