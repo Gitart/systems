@@ -1,5 +1,5 @@
 =======================================
-daiquiri -- Python logging setup helper
+Описание процедуры
 =======================================
 
 .. image:: https://travis-ci.org/jd/daiquiri.png?branch=master
