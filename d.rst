@@ -2,14 +2,6 @@
 Описание процедуры
 =======================================
 
-.. image:: https://travis-ci.org/jd/daiquiri.png?branch=master
-    :target: https://travis-ci.org/jd/daiquiri
-    :alt: Build Status
-
-.. image:: https://img.shields.io/pypi/v/daiquiri.svg
-    :target: https://pypi.python.org/pypi/daiquiri
-    :alt: Latest Version
-
 Описание новостных лент 
 
 * Free software: Apache license
